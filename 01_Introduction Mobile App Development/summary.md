@@ -1,0 +1,2 @@
+pada materi ini saya mempelajari tentang pengertian pada software bagaimana software itu, ada interpreter dan compiler,
+dan juga pemahaman soal mobile app development yang terbagi menjadi 2 yaitu Android dan IOS.
