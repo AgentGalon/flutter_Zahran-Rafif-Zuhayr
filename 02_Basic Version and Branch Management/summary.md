@@ -1,2 +1,2 @@
 Pada materi Git ini saya Belajar tentang bagaimana saya menggunakan Github.
-Disini saya mempelajari bagaimana membuat repository, membuat branch menggunakan command" seperti push, pull, merge dan stash.
+Disini saya mempelajari bagaimana membuat repository, membuat branch menggunakan command" seperti push, pull, merge dan stash. conflict dari branch utama ke branch lainnya.
