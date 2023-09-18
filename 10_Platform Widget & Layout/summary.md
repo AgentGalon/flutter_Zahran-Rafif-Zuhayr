@@ -1,1 +1,0 @@
-Pada materi Platform Widget & Layout mengajarkan jika platform widget flutter itu ada MaterialApp dan CupertinoApp, MaterialApp itu sendiri untuk android dan CupertinoApp itu untuk IOS. Untuk Materi Flutter layout itu sendiri terbagi menjadi single-child layout dan multi-child layout, Layout itu sendiri berguna untuk mengatur tata letak widget.
