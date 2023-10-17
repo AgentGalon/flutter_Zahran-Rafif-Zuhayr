@@ -1,0 +1,5 @@
+input:
+Kalo kamu besok balapan mau mulus. Pinjam dulu lah Seratus.
+
+output:
+(tidak ada output, karena terkena limit)
